@@ -1,4 +1,4 @@
-## 🦙 Local RAG Agent with Llama 3.2
+## Local RAG Agent with Llama 3.2
 This application implements a Retrieval-Augmented Generation (RAG) system using Llama 3.2 via Ollama, with Qdrant as the vector database.
 
 
@@ -13,13 +13,13 @@ This application implements a Retrieval-Augmented Generation (RAG) system using 
 
 1. Clone the GitHub repository
 ```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+git clone https://github.com/Monishgalla/local_rag_agent_app.git
 ```
 
 2. Install the required dependencies:
 
 ```bash
-cd awesome-llm-apps/rag_tutorials/local_rag_agent
+cd local_rag_agent
 pip install -r requirements.txt
 ```
 
